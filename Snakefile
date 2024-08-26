@@ -6,7 +6,6 @@ medium = "12:00:00"
 day = "24:00:00"
 long = "48:00:00"
 
-# metadata_file = "vv_microbiome_metadata_20210510_no_underscores.tsv"
 metadata_file = "vv_microbiome_metadata_20221116_no_underscores.tsv"
 
 rule all:
